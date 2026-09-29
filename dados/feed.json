@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-28T16:11:13.777Z",
-  "total_materias": 80,
+  "gerado_em": "2026-09-29T14:25:59.281Z",
+  "total_materias": 79,
   "fontes_ok": 18,
   "fontes_falha": [],
   "categorias": [
@@ -9,18 +9,81 @@
       "nome": "E-commerce & Varejo",
       "itens": [
         {
-          "titulo": "Consumidor 60+: proteger sem tirar a autonomia",
+          "titulo": "Privacidade vira ativo competitivo na era da IA",
           "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/consumidor-60-proteger-sem-tirar-a-autonomia/",
-          "ts": 1790607237000,
-          "data": "2026-09-28T14:53:57.000Z"
+          "url": "https://consumidormoderno.com.br/privacidade-inteligencia-artificial-consumidor/",
+          "ts": 1790690789000,
+          "data": "2026-09-29T14:06:29.000Z"
         },
         {
-          "titulo": "As engrenagens de uma máquina de vendas, segundo Ricardo Nunes",
+          "titulo": "Brands Briefing: Hanna Andersson is joining Amazon, with a 90% unique assortment",
+          "fonte": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/brands-briefing-hanna-andersson-is-joining-amazon-with-a-90-unique-assortment/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "ts": 1790690400000,
+          "data": "2026-09-29T14:00:00.000Z"
+        },
+        {
+          "titulo": "ERP, CRM, marketplace e loja virtual: como conectar os sistemas de um e-commerce - E-Commerce Brasil",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1RSX2JJdi12aEd2SXM2bWRVb2lsSFZBNzVIdFlMQThQLThZbTFNN2N1ZjVuVVVTNGdBS19IYXB1SkxTZ3d4T1c3aC1zaU4wMV95MEFiUXRJeXlER2FUb3hETGlmbV9JaHRSYUhxQXZFQWJyTVNPR3FsSHo2M0JCXzRka1hsaS1MeVA2NXVRWHpsRjJJVEg3WE5iQ1Fndy1hNVp5eS1uZ0pLMFRfOHBONi1uV0FBaW9BOHd2Vg?oc=5",
+          "ts": 1790690400000,
+          "data": "2026-09-29T14:00:00.000Z"
+        },
+        {
+          "titulo": "O custo de cada resposta: a aposta da Omilia para a IA de voz no Brasil",
           "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/as-engrenagens-de-uma-maquina-de-vendas-segundo-ricardo-nunes/",
-          "ts": 1790605602000,
-          "data": "2026-09-28T14:26:42.000Z"
+          "url": "https://consumidormoderno.com.br/omilia-aposta-ia-voz-brasil/",
+          "ts": 1790689571000,
+          "data": "2026-09-29T13:46:11.000Z"
+        },
+        {
+          "titulo": "Jornada sem fricção começa na arquitetura de dados",
+          "fonte": "Consumidor Moderno",
+          "url": "https://consumidormoderno.com.br/dados-conarec-2026-cx-jornadas/",
+          "ts": 1790688369000,
+          "data": "2026-09-29T13:26:09.000Z"
+        },
+        {
+          "titulo": "Responder já não basta: a IA agêntica quer resolver o problema antes que ele vire atendimento",
+          "fonte": "Consumidor Moderno",
+          "url": "https://consumidormoderno.com.br/agentes-de-ia-no-atendimento-ao-cliente/",
+          "ts": 1790688176000,
+          "data": "2026-09-29T13:22:56.000Z"
+        },
+        {
+          "titulo": "Wellness: quando a marca vira estilo de vida",
+          "fonte": "Consumidor Moderno",
+          "url": "https://consumidormoderno.com.br/marca-vira-estilo-vida/",
+          "ts": 1790687248000,
+          "data": "2026-09-29T13:07:28.000Z"
+        },
+        {
+          "titulo": "O valor está no promotor da marca",
+          "fonte": "Consumidor Moderno",
+          "url": "https://consumidormoderno.com.br/valor-promotor-marcas-experiencia/",
+          "ts": 1790686769000,
+          "data": "2026-09-29T12:59:29.000Z"
+        },
+        {
+          "titulo": "How Kroger, Giant Eagle and DoorDash are building their agentic AI assistants",
+          "fonte": "Modern Retail",
+          "url": "https://www.modernretail.co/technology/how-kroger-giant-eagle-and-doordash-are-building-their-agentic-ai-assistants/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "ts": 1790654400000,
+          "data": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "titulo": "Behind Hoka’s bid to own the NYC marathon’s run-up period",
+          "fonte": "Modern Retail",
+          "url": "https://www.modernretail.co/marketing/behind-hokas-bid-to-own-the-nyc-marathons-run-up-period/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "ts": 1790654400000,
+          "data": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "titulo": "Farmácia online deve ser protagonista na Black Friday em 2026, aponta estudo - E-Commerce Brasil",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFNWLWNoNFJWR2t2R2tNZWF1UjI0Z1ZqSkkwWHdwTloyaG4tNDlOTWF5MHhrUFQxLVB1QTVMSnQ0elBRc1NRa2o3ZGhhYnFaVFc3blhzTFRPRThoQTB2RXc4eHNiNVJ4NHVrdHRldkVrTU5meDJuQy05enRJUlB5Y3RScUkzbFJaTGs5V3Q2ay1vaFFEWVhiVG9oYzE3VzRmemdDUkZ6ZUpwT1BIc2pkcENUbGhSNzd6S2Jn?oc=5",
+          "ts": 1790616600000,
+          "data": "2026-09-28T17:30:00.000Z"
         },
         {
           "titulo": "18 months, 31 prototypes and 1,700 hours of wear testing: How Knix brought its seamless cotton underwear to the market",
@@ -35,13 +98,6 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVFPRFg4d01WSGdhUzRXOG1raTIxOU5iXzY0ellUWWt1RjNraThCS1JIaUUxNThHUjlhU3I1U1dRYTY0dUZWQ3ZYTDVMYkVpemtmaXZIdTlmdndTZnZYVzl4Sjl5VC1yY3RGN3BNaEdJaUFZNHlRakxVaUxzcGppcGtxU3lkc2RWQWxmTVlVQkxtOWxXT1ZLaEdLYzJTWUZMa0xDRGN6X1MwSDBDdzgtQWZRQzFieVNtWkhZMElpWGZFa245TGc?oc=5",
           "ts": 1790596800000,
           "data": "2026-09-28T12:00:00.000Z"
-        },
-        {
-          "titulo": "Ri Happy leva venda das lojas para o WhatsApp e ativa agente de IA no Dia das Crianças - E-Commerce Brasil",
-          "fonte": "E-Commerce Brasil",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT2ZTUGZfQ1NpVkZHZ2NyT3oySTRZN2ozX2ZobXdlT3FiWWpzVS00R0hfS2dOY2hWck93Vnc0bkpDT2ZpdXlqMkdqV2RPSGYxNmg1d1pqYTA1WFZ3NXdCYXRsb1FxVW14cWdkOHZOd0JGVHJuREtxdFl5QzZDdGxfRmdOUGttUWVMLUcwd0JLVTZlR09DTTROZFhuVFh0Mk0xbVBkNFhhdk1aaTRNc2tkZ0syNjB6SlFGelpMWHk0SXAzMUxyalBUeXR3?oc=5",
-          "ts": 1790580600000,
-          "data": "2026-09-28T07:30:00.000Z"
         },
         {
           "titulo": "Black Friday 2026: Sua operação está pronta para transformar demanda em resultado? - E-Commerce Brasil",
@@ -63,62 +119,6 @@
           "url": "https://www.modernretail.co/operations/how-unilever-sees-the-line-between-beauty-and-wellness-blurring/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
           "ts": 1790568000000,
           "data": "2026-09-28T04:00:00.000Z"
-        },
-        {
-          "titulo": "‘Not hiring’ entry-level talent: Industry acknowledges runaway crisis brought on by introducing AI to the workforce",
-          "fonte": "Modern Retail",
-          "url": "https://www.modernretail.co/retailers/not-hiring-entry-level-talent-industry-acknowledges-runaway-crisis-brought-on-by-introducing-ai-to-the-workforce/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "ts": 1790568000000,
-          "data": "2026-09-28T04:00:00.000Z"
-        },
-        {
-          "titulo": "The rise of the AI shelf",
-          "fonte": "Modern Retail",
-          "url": "https://www.modernretail.co/operations/the-rise-of-the-ai-shelf/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "ts": 1790395200000,
-          "data": "2026-09-26T04:00:00.000Z"
-        },
-        {
-          "titulo": "SKY e DirecTV conciliam CX e eficiência com IA no atendimento",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/sky-directv-conciliam-cx-eficiencia-ia-atendimento/",
-          "ts": 1790370332000,
-          "data": "2026-09-25T21:05:32.000Z"
-        },
-        {
-          "titulo": "Na Experiência Infinita, o cliente que reclama pode ser o mais leal",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/experiencia-cliente-conarec-cm/",
-          "ts": 1790369868000,
-          "data": "2026-09-25T20:57:48.000Z"
-        },
-        {
-          "titulo": "O futuro do CX chegou, mas tecnologia sozinha não resolve",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/futuro-cx-tecnologia-sozinha-nao-resolve/",
-          "ts": 1790368336000,
-          "data": "2026-09-25T20:32:16.000Z"
-        },
-        {
-          "titulo": "Banco Carrefour atinge impacto de R$ 846 mil em 90 dias com IA na cobrança",
-          "fonte": "Consumidor Moderno",
-          "url": "https://consumidormoderno.com.br/banco-carrefour-atinge-impacto-de-r-846-mil-em-90-dias-com-ia-na-cobranca/",
-          "ts": 1790364570000,
-          "data": "2026-09-25T19:29:30.000Z"
-        },
-        {
-          "titulo": "Marketers bemoan the culture of ‘good enough — go,’ as standards fall amid the AI bubble",
-          "fonte": "Modern Retail",
-          "url": "https://www.modernretail.co/technology/marketers-bemoan-the-culture-of-good-enough-go-as-standards-fall-amid-the-ai-bubble/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "ts": 1790308800000,
-          "data": "2026-09-25T04:00:00.000Z"
-        },
-        {
-          "titulo": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos - E-Commerce Brasil",
-          "fonte": "E-Commerce Brasil",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjlzTjhWcnRpR3d6OHZqaWFOdnpZZlBZaGdjNm5FZm9PcjRZeHZqeG9ZTjVZX1JNalJWTml3MDRpZXJkNERmdjNwN0FJUDBObnBjSHE1M1JVWEtQQ3BxYUtlYnQwUUtkLS1EeERPMWJKZE1ucW5pckVCbW1xb2ctSmRXSkRITFVtUE9DWnVVeWZGODhaREg0?oc=5",
-          "ts": 1790278800000,
-          "data": "2026-09-24T19:40:00.000Z"
         }
       ]
     },
@@ -127,116 +127,116 @@
       "nome": "Beleza & Capilar",
       "itens": [
         {
-          "titulo": "Protegido: Do couro cabeludo ao interior da fibra: as novas apostas em hair care",
+          "titulo": "Farmácias brasileiras: o próximo capítulo dos dermocosméticos e da K-Beauty - guiadafarmacia.com.br",
+          "fonte": "guiadafarmacia.com.br",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE54Q1BlSTVYSDRmVEpQcmkxc3N3cVVueVZCRWRYTmR5QnlnR0xCaGxDRTJNVDlBZE5HclAtZHFfTzZlUVdUdUdzYmdlZ2s2YkYwZ3owRW1VaWFxUk5KYmowX241X3ZVZXJ1X1dQTkdsMzhwWUR0T3dsMHI4N3haY001QkZhamFPeVJoNXpkbTZnNmJzMURxc3dfXzFDek5qNmZqelU0c0Y?oc=5",
+          "ts": 1790690459000,
+          "data": "2026-09-29T14:00:59.000Z"
+        },
+        {
+          "titulo": "Marca de skincare The Outset, de Scarlett Johansson, encerra operações",
           "fonte": "Cosmetic Innovation",
-          "url": "https://cosmeticinnovation.com.br/do-couro-cabeludo-ao-interior-da-fibra-as-novas-apostas-em-hair-care/",
-          "ts": 1790608844000,
-          "data": "2026-09-28T15:20:44.000Z"
+          "url": "https://cosmeticinnovation.com.br/marca-de-skincare-the-outset-de-scarlett-johansson-encerra-operacoes/",
+          "ts": 1790686718000,
+          "data": "2026-09-29T12:58:38.000Z"
         },
         {
-          "titulo": "Carolina Herrera lança sua primeira paleta de sombras Eyeconica",
+          "titulo": "Granado leva Figo Confit e Framboesa Noir à gastronomia de NovaYork",
           "fonte": "Cosmetic Innovation",
-          "url": "https://cosmeticinnovation.com.br/carolina-herrera-lanca-sua-primeira-paleta-de-sombras-eyeconica/",
-          "ts": 1790603567000,
-          "data": "2026-09-28T13:52:47.000Z"
+          "url": "https://cosmeticinnovation.com.br/granado-leva-figo-confit-e-framboesa-noir-a-gastronomia-de-novayork/",
+          "ts": 1790685931000,
+          "data": "2026-09-29T12:45:31.000Z"
         },
         {
-          "titulo": "Canetas emagrecedoras abrem nova frente de consumo na beleza - TV Sim Brasil",
-          "fonte": "TV Sim Brasil",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0hKMmg0dl90eUJCczY1T1VhTm1GSHJCczVTZjJ0aDd4SlJSbDJkbG02aWRtZFlhYzY4YXR5NWxQR1BsZEVEeUkycWt2OFYyV1JFbVBXY280X0pRNFI0THFXenYxZnN6c3lONjZ0Z2FNY1lRb2VENGo0dXE0SWItaVBsOFdoczBPek9CaXVJcEU0NzRqN0EwdkV6YkN5WDBoOElGSWZqWjhUZFYwTUh3OUJBMEZ6UTQ?oc=5",
-          "ts": 1790584898000,
-          "data": "2026-09-28T08:41:38.000Z"
+          "titulo": "Darrow lança Actine One Stick com proteção solar em 6 tons, alta cobertura e controle da oleosidade",
+          "fonte": "Cosmetic Innovation",
+          "url": "https://cosmeticinnovation.com.br/darrow-lanca-actine-one-stick-com-protecao-solar-em-6-tons-alta-cobertura-e-controle-da-oleosidade/",
+          "ts": 1790683649000,
+          "data": "2026-09-29T12:07:29.000Z"
         },
         {
-          "titulo": "Caneta emagrecedora abre oportunidades para o setor de beleza - Valor Econômico",
-          "fonte": "Valor Econômico",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2tjRV9hblM1a0ZXa1JCS2JLa2RJWHFTQ3V1RDhzcG1wRmszbEkzdFRlV2tKZ0ZCNUVWWFJVYWlQZVRVcmVXX01FSDNuakZUdVZpajN1M3RwU2lhcFFEMEJJUWhoTXNid1k5ckhaNW4yZk44VmJUZThpQ19uTmtROUJlVGthU3VTdENwTUJkOHdWV2FydlJIQXZSVU5QQnJNSk9xbFlvbmVhd3h3WmhYYmdfWHZ6dUZiRUdlVmQ3VU9yZnNsVlFIMmF3?oc=5",
-          "ts": 1790582683000,
-          "data": "2026-09-28T08:04:43.000Z"
-        },
-        {
-          "titulo": "Previsão do mercado de cuidados com os cabelos até 2035: premiumização e saúde do couro cabeludo impulsionam o crescimento - IndexBox",
-          "fonte": "IndexBox",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1pxYkEtcFZGeW91QlMzZTIxd2txa3g4YmF4eEZFUFlQM3ZRNDhxUEE1cnN3dzdMa2hET0Q1TzJNVWVPcDF2QVZhZWMzRjkwUGZ0Mm91dDdGQk4wNHc3cFRSdGM3TjZXOU8zYXc0ckVVZDFOUUVCVE4wXzF1eGZOamUwYUFGQ3d2bm1mNlk1ZnVyR0VzMXF4TWdrQ1BBT0JtMzFGZGgwWGgwSkFxQXFmQkRRWnVfM04zYjAycy1R?oc=5",
-          "ts": 1790569264000,
-          "data": "2026-09-28T04:21:04.000Z"
-        },
-        {
-          "titulo": "Korean Department Store Shinsegae Wants to Be a U.S. Beauty Player, Too",
+          "titulo": "Sephora and M&S Are Partnering in the U.K.",
           "fonte": "WWD Beauty",
-          "url": "https://wwd.com/beauty-industry-news/beauty-features/korean-beauty-pop-up-new-york-shinsegae-1239264770/",
-          "ts": 1790568060000,
-          "data": "2026-09-28T04:01:00.000Z"
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/sephora-ms-partnering-u-k-1239286499/",
+          "ts": 1790680219000,
+          "data": "2026-09-29T11:10:19.000Z"
         },
         {
-          "titulo": "Burton at 50: The snowboard icon sets its sights on streetwear and China",
-          "fonte": "Glossy",
-          "url": "https://www.glossy.co/fashion/burton-at-50-the-snowboard-icon-is-setting-its-sights-on-streetwear-and-china/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-          "ts": 1790568000000,
-          "data": "2026-09-28T04:00:00.000Z"
+          "titulo": "Sinergia sensorial foi uma das principais temáticas da in-cosmetics Latam 2026 - Brazil Beauty News",
+          "fonte": "Brazil Beauty News",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZEk0M1NYR0k1OFg0QUlPdW5nT3dPbEVGRDJWcnJTdGNmOGdSV3ZTVFFvNzRhWHVjRV9oeTF3YlRTYXY2ZFRpZUJEd0JpVzVDQk1KdHRRb05vbXpKSjRKUjVkVHBKRERUUjRaYUZCYVZTQzlSWEtwNmJVY1V6Y0VDVEZfQVJUQQ?oc=5",
+          "ts": 1790668989000,
+          "data": "2026-09-29T08:03:09.000Z"
         },
         {
-          "titulo": "‘Not hiring’ entry-level talent: Industry acknowledges runaway crisis brought on by introducing AI to the workforce",
-          "fonte": "Glossy",
-          "url": "https://www.glossy.co/fashion/not-hiring-entry-level-talent-industry-acknowledges-runaway-crisis-brought-on-by-introducing-ai-to-the-workforce/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-          "ts": 1790568000000,
-          "data": "2026-09-28T04:00:00.000Z"
-        },
-        {
-          "titulo": "Harus e Acqua di Parma apostam no olfato para criar experiências em hotéis",
-          "fonte": "Cosmetic Innovation",
-          "url": "https://cosmeticinnovation.com.br/harus-e-acqua-di-parma-apostam-no-olfato-para-criar-experiencias-em-hoteis/",
-          "ts": 1790366153000,
-          "data": "2026-09-25T19:55:53.000Z"
-        },
-        {
-          "titulo": "r.e.m. beauty leva estética do balé às embalagens de coleção global Holiday",
-          "fonte": "Cosmetic Innovation",
-          "url": "https://cosmeticinnovation.com.br/r-e-m-beauty-leva-estetica-do-bale-as-embalagens-de-colecao-global-holiday/",
-          "ts": 1790365149000,
-          "data": "2026-09-25T19:39:09.000Z"
-        },
-        {
-          "titulo": "Tom Ford lança bastão multifuncional para base, contorno e iluminação nos EUA",
-          "fonte": "Cosmetic Innovation",
-          "url": "https://cosmeticinnovation.com.br/tom-ford-lanca-bastao-multifuncional-para-base-contorno-e-iluminacao-nos-eua/",
-          "ts": 1790362464000,
-          "data": "2026-09-25T18:54:24.000Z"
-        },
-        {
-          "titulo": "Banderas estreia em body mists com três fragrâncias gourmand",
-          "fonte": "Cosmetic Innovation",
-          "url": "https://cosmeticinnovation.com.br/banderas-estreia-em-body-mists-com-tres-fragrancias-gourmand/",
-          "ts": 1790360627000,
-          "data": "2026-09-25T18:23:47.000Z"
-        },
-        {
-          "titulo": "Como ganhar dinheiro na área da beleza: por onde começar - Serasa",
-          "fonte": "Serasa",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UdGs0ZVpZQzVIYnF4blpiZFZQV05kTUJEMUtBcW84eVZhU253bzhRYzZBTjFNeGQ0UnZIMzYyYWN4dVFrOFd1dW5NcHU4c1NtbGJ4ZjlDanM1SVE2eFZlQ2NCVGtZM0kwODU0anBJaUlMUQ?oc=5",
-          "ts": 1790341200000,
-          "data": "2026-09-25T13:00:00.000Z"
-        },
-        {
-          "titulo": "Sephora Taps John Legend for Original Holiday Anthem",
+          "titulo": "The Latest Beauty Executive Moves at The Estée Lauder Cos., Dermalogica and More",
           "fonte": "WWD Beauty",
-          "url": "https://wwd.com/beauty-industry-news/beauty-features/sephora-john-legend-holiday-shopping-song-1239259382/",
-          "ts": 1790330400000,
-          "data": "2026-09-25T10:00:00.000Z"
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-estee-lauder-dermalogica-executive-appointments-1239257753/",
+          "ts": 1790654460000,
+          "data": "2026-09-29T04:01:00.000Z"
         },
         {
-          "titulo": "Canetas emagrecedoras: mercado da beleza reage ao GLP-1 - Meio e Mensagem",
-          "fonte": "Meio e Mensagem",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdzVnNENrZDVCbjhsOGRXMTBiY1d0c1llQVlZM2VkRmxCeURSQ09HSkxucVppdjJVZFREYlJMaVZnRm9SdUx6eUNsbmlKOEc1NnVXXzJXOHVzMHdRRGp6NlNEcm9xSFlwQmZfQ2pyZVpSc2NEcWVYYTR5ZlFzalUteVNidkRHLVpxR0syMjBrbVJxcUJrZGxjSTFKOXA1NzVROHQ4MEhR?oc=5",
-          "ts": 1790327220000,
-          "data": "2026-09-25T09:07:00.000Z"
+          "titulo": "Clinical Beauty Brands are Dominating on Amazon",
+          "fonte": "WWD Beauty",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/top-beauty-brands-amazon-medicube-nutrafol-1239257717/",
+          "ts": 1790654460000,
+          "data": "2026-09-29T04:01:00.000Z"
         },
         {
-          "titulo": "London Fashion Week got more commercial. Did it get better?",
+          "titulo": "Robertet Helps The Infinite Table Turn Dinner Into a Sensory Adventure",
+          "fonte": "WWD Beauty",
+          "url": "https://wwd.com/beauty-industry-news/fragrance/robertet-infinite-table-turn-dinner-into-sensory-adventure-1239285465/",
+          "ts": 1790654460000,
+          "data": "2026-09-29T04:01:00.000Z"
+        },
+        {
+          "titulo": "Multigenerational Campaigns Drive Major Gains for Top Brands",
+          "fonte": "WWD Beauty",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/multi-generational-campaigns-drive-major-gains-top-brands-1239261616/",
+          "ts": 1790654460000,
+          "data": "2026-09-29T04:01:00.000Z"
+        },
+        {
+          "titulo": "Beauty Briefing: Fragrance is taking a page from the romantasy craze as Fine’ry teams up with ‘A Court of Thorns and Roses’",
           "fonte": "Glossy",
-          "url": "https://www.glossy.co/podcasts/london-fashion-week-2026-mulberry-mcqueen-burberry/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-          "ts": 1790308800000,
-          "data": "2026-09-25T04:00:00.000Z"
+          "url": "https://www.glossy.co/beauty/beauty-briefing-fragrance-is-taking-a-page-from-the-romantasy-craze-as-finery-teams-up-with-a-court-of-thorns-and-roses/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+          "ts": 1790654400000,
+          "data": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "titulo": "Perelel Health hits $100 million run rate, hires Rare Beauty CMO on growth path",
+          "fonte": "Glossy",
+          "url": "https://www.glossy.co/beauty/wellness/perelel-health-hits-100-million-run-rate-hires-rare-beauty-cmo-on-growth-path/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+          "ts": 1790654400000,
+          "data": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "titulo": "How Van Cleef & Arpels and The Wires are using AI for product discovery and personalization",
+          "fonte": "Glossy",
+          "url": "https://www.glossy.co/fashion/how-van-cleef-arpels-and-the-wires-are-using-ai-for-product-discovery-and-personalization/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+          "ts": 1790654400000,
+          "data": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "titulo": "How Unilever sees the line between beauty and wellness blurring",
+          "fonte": "Glossy",
+          "url": "https://www.glossy.co/beauty/how-unilever-sees-the-line-between-beauty-and-wellness-blurring/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+          "ts": 1790654400000,
+          "data": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "titulo": "CEO Talks: Marco Parsiegla of Amouage",
+          "fonte": "WWD Beauty",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/ceo-talks-marco-parsiegla-amouage-1239262917/",
+          "ts": 1790654400000,
+          "data": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "titulo": "Aplicadores sensoriais ganham protagonismo nas embalagens de beleza",
+          "fonte": "Cosmetic Innovation",
+          "url": "https://cosmeticinnovation.com.br/aplicadores-sensoriais-ganham-protagonismo-nas-embalagens-de-beleza/",
+          "ts": 1790627991000,
+          "data": "2026-09-28T20:39:51.000Z"
         }
       ]
     },
@@ -245,32 +245,88 @@
       "nome": "Investimento & Mercado",
       "itens": [
         {
-          "titulo": "Novo Desenrola deve destravar onda de crédito. E o Citi aponta o possível vencedor",
+          "titulo": "IA traz riscos existenciais para humanidade: o “lembrete” do prospecto de IPO da Anthropic",
           "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/negocios/novo-desenrola-deve-destravar-onda-de-credito-e-o-citi-aponta-o-possivel-vencedor/",
-          "ts": 1790610605000,
-          "data": "2026-09-28T15:50:05.000Z"
+          "url": "https://neofeed.com.br/negocios/ia-traz-riscos-existenciais-para-humanidade-o-lembrete-do-prospecto-de-ipo-da-anthropic/",
+          "ts": 1790686181000,
+          "data": "2026-09-29T12:49:41.000Z"
         },
         {
-          "titulo": "O trade eleitoral já começou, mas o Andbank não recomenda apostar no vencedor",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/janela-de-mercado/o-trade-eleitoral-ja-comecou-mas-o-andbank-nao-recomenda-apostar-no-vencedor/",
-          "ts": 1790610332000,
-          "data": "2026-09-28T15:45:32.000Z"
+          "titulo": "Casal tenta roubar loja de cosméticos em Belo Horizonte - G1",
+          "fonte": "G1",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUZ0ZVNCUXBIRll5TmNQV05JY2wycllVOVRuMlNqXzdaYVVGMmJIVDdKdVo0a01qSzY0RXVOaUFFYzZ1c3U2b0NSQkVfemg3ODRfeFpxcW80bGVGNDlvUzRDNG81bTJ1bi05eHBMOC1jdG9KbTdHcmFMc0FwZXpUQ0ZNellLcHVLOTZkN2Y2TjVqa1NTVFBFS25QZXRyeTd2alN4RTc2OHo2RDlTeWtiUi1VOUlteTBibFZrcGFfRFRfamV3T3fSAdQBQVVfeXFMTy1nOTgwZ0oxc1c1MFpaQjVHcm1JVzJCZnhkb3RMeTVxUG9GVm50NFBmQzl1WlRadlY1Z0RDWmItcHpKUVo1X1NoY0NUY3NXUU1TZXpuZEg1SUV3NG9QdEZFYk9Sd2tyOEdMbGkxbGpIVWtvT2hMbXMwOXFmYVVocmRkVE1VMW1wbnZWMXE0bjVyTENhMm1xZGFQN2Q5NXB4X3VLQTJqdndxeHlCTHZIa0stUnpsUDBQVVVNUlBrdkxETHVUQk40VE9FNVFTSmhDbWZRS0E?oc=5",
+          "ts": 1790684271000,
+          "data": "2026-09-29T12:17:51.000Z"
         },
         {
-          "titulo": "Nvidia supera a Apple mais uma vez. Agora, com recompra de ações recorde de US$ 150 bilhões",
+          "titulo": "Motiva, EcoRodovias e Eletromidia criam joint venture para explorar publicidade em rodovias",
           "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/inovacao/nvidia-supera-a-apple-mais-uma-vez-agora-com-recompra-de-acoes-recorde-de-us-150-bilhoes/",
-          "ts": 1790606163000,
-          "data": "2026-09-28T14:36:03.000Z"
+          "url": "https://neofeed.com.br/negocios/motiva-ecorodovias-e-eletromidia-criam-joint-venture-para-explorar-publicidade-em-rodovias/",
+          "ts": 1790683459000,
+          "data": "2026-09-29T12:04:19.000Z"
         },
         {
-          "titulo": "Itaú monta nova frente para disputar os bilhões do esporte e entretenimento",
+          "titulo": "Com oferta somada de R$ 24,85 bi de Itaú e BTG, Fiagros “colhem” recorde de captação",
           "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/negocios/itau-monta-nova-frente-para-disputar-os-bilhoes-do-esporte-e-entretenimento/",
-          "ts": 1790606159000,
-          "data": "2026-09-28T14:35:59.000Z"
+          "url": "https://neofeed.com.br/negocios/com-oferta-somada-de-r-2485-bi-de-itau-e-btg-fiagros-colhem-recorde-de-captacao/",
+          "ts": 1790679615000,
+          "data": "2026-09-29T11:00:15.000Z"
+        },
+        {
+          "titulo": "QI Tech é única empresa de ‘banking as a service’ com rating ‘AA(bra)’ pela Fitch",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/brand-stories/apresentado-por-qi-tech/qi-tech-e-unica-empresa-de-banking-as-a-service-com-rating-aabra-pela-fitch/",
+          "ts": 1790679310000,
+          "data": "2026-09-29T10:55:10.000Z"
+        },
+        {
+          "titulo": "Aïza Parent Amaani Raises $5M To Scale The Middle Eastern Beauty Brand Across The Gulf And Beyond - Beauty Independent",
+          "fonte": "Beauty Independent",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzlsekpiZmdPdE1HNDkyY2lyQnBsTVRpTDI3bTduLVVNeHpMeW9NU0NrOWVRcFhoamoycHk5cl9FeFp0OUtMMDU2V3FSZTBYQlY0OEpPYWpiTHVfbHZjVVBxcjA1b2lIVHpUSHQ0UUJVZFFjQkRaa2tHRHBINWp0ZHgyeWFaZWRxLXM0bHFDSkZUMEJSSms2cFlwTjVHa0FfVGx2clhIdXM4YnRhOWc?oc=5",
+          "ts": 1790653351000,
+          "data": "2026-09-29T03:42:31.000Z"
+        },
+        {
+          "titulo": "Tellus e Rio Bravo reciclam portfólio e miram fundo logístico de R$ 10 bilhões",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/negocios/tellus-e-rio-bravo-reciclam-portfolio-e-miram-fundo-logistico-de-r-10-bilhoes/",
+          "ts": 1790633239000,
+          "data": "2026-09-28T22:07:19.000Z"
+        },
+        {
+          "titulo": "Consolidação começa a chacoalhar o mercado de carros elétricos na China",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/economia/consolidacao-comeca-a-chacoalhar-o-mercado-de-carros-eletricos-na-china/",
+          "ts": 1790633221000,
+          "data": "2026-09-28T22:07:01.000Z"
+        },
+        {
+          "titulo": "CRISE CLIMÁTICA | Jaguar Mining adota medidas para enfrentar impactos do El Niño - brasilmineral.com.br",
+          "fonte": "brasilmineral.com.br",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVdPLTUyNzBmZkZ0YkpabHF4WkRyNDBqM0xmZ1NiZlk2akpkbmNFSENjQ3RPVllxVE9lT2VEVjk0d1NfckhTVXN2REUxOHZ0dTR2VG8tZElGek9NTFl4MHJGcDVIOF84QnNUSUtvMVFwd3ZJZGF2bEZOaHh3bnlfRi0wQU9FMVk2NWNwZXBNSGZrclpPWnRhemVDOUNMcklYTkE?oc=5",
+          "ts": 1790624901000,
+          "data": "2026-09-28T19:48:21.000Z"
+        },
+        {
+          "titulo": "Natura (NATU3) - trademap.com.br",
+          "fonte": "trademap.com.br",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GLUQ3RXFDV0tCZDNKTkJXdF9WSUswNnVNaGFUS1Y4SDQ3TG9BMk43Wi1lT0ZVd2FRZExoTDhjREsteXZhTGE2dFJIZVljdHF4VlIybmgxRFk?oc=5",
+          "ts": 1790620436000,
+          "data": "2026-09-28T18:33:56.000Z"
+        },
+        {
+          "titulo": "Como ganhar dinheiro na área da beleza: por onde começar - Serasa",
+          "fonte": "Serasa",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UdGs0ZVpZQzVIYnF4blpiZFZQV05kTUJEMUtBcW84eVZhU253bzhRYzZBTjFNeGQ0UnZIMzYyYWN4dVFrOFd1dW5NcHU4c1NtbGJ4ZjlDanM1SVE2eFZlQ2NCVGtZM0kwODU0anBJaUlMUQ?oc=5",
+          "ts": 1790605800000,
+          "data": "2026-09-28T14:30:00.000Z"
+        },
+        {
+          "titulo": "Vyrao Acquired by Brand Platform Tresalis - The Business of Fashion",
+          "fonte": "The Business of Fashion",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsMVVIVWxRRnZGeFhaQUswdHcwYnU4SXFLdGVOeHMxaUNvRVR5ekEtb2c0cFVIaEM2bk1vcm4wdFh3QXBDMEhvTHZ3T2daRzFBSENNZG1Id3JmQjhha2d2aUFGWkVfOUFUOGFsVU5R?oc=5",
+          "ts": 1790598600000,
+          "data": "2026-09-28T12:30:00.000Z"
         },
         {
           "titulo": "De US$ 3 mil a R$ 38,1 bilhões: como Miguel Krigsner transformou uma farmácia no Grupo Boticário - Business Moment",
@@ -280,27 +336,6 @@
           "data": "2026-09-28T11:46:39.000Z"
         },
         {
-          "titulo": "A “Rule of 50” e a estratégia de João Vitor Menin para fazer do Inter o “banco das Américas”",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/negocios/a-rule-of-50-e-a-estrategia-de-joao-vitor-menin-para-fazer-do-inter-o-banco-das-americas/",
-          "ts": 1790593142000,
-          "data": "2026-09-28T10:59:02.000Z"
-        },
-        {
-          "titulo": "A conta da IA vai fechar? A tese da IP Capital Partners para apostar nas big techs",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/videos/cafe-investidor/a-conta-da-ia-vai-fechar-a-tese-da-ip-capital-partners-para-apostar-nas-big-techs/",
-          "ts": 1790593061000,
-          "data": "2026-09-28T10:57:41.000Z"
-        },
-        {
-          "titulo": "Startup portuguesa de beleza cresce 370% no Brasil e planeja investir R$ 35 milhões até 2027 - Pequenas Empresas & Grandes Negócios",
-          "fonte": "Pequenas Empresas & Grandes Negócios",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQW96a3NMd3czdVNhbFVQSmpFNk9KaFdNcGNYOTc5bmo2OG1ERVNIU0xYMDZiT0FCUmI3MVZBdE9OLThnVS1fTkd6Y0U5bVFKNkpFd3k4WFpsU2tiRHJQSEdvd3lKV0lVcDlMQjFWX3VZQUJURzg1S1Bpbnk2VC1BUXVIRjBKU0E0SWpfWndZaGxwOU4zZWF1QllJMFg0b0VraUl2SmNmSWsxNVBmU0ZITTQwRWRjUTd4NkNSRzF6ZzVTVTVwVnl4ZXhyQktGYXMzTjV0eDNiMDVXTzhudDJtOFFCdm1LOC1yYjdLVlB0NW1ueGYwUWMxTDlsbFNnUdIB_gFBVV95cUxOQW96a3NMd3czdVNhbFVQSmpFNk9KaFdNcGNYOTc5bmo2OG1ERVNIU0xYMDZiT0FCUmI3MVZBdE9OLThnVS1fTkd6Y0U5bVFKNkpFd3k4WFpsU2tiRHJQSEdvd3lKV0lVcDlMQjFWX3VZQUJURzg1S1Bpbnk2VC1BUXVIRjBKU0E0SWpfWndZaGxwOU4zZWF1QllJMFg0b0VraUl2SmNmSWsxNVBmU0ZITTQwRWRjUTd4NkNSRzF6ZzVTVTVwVnl4ZXhyQktGYXMzTjV0eDNiMDVXTzhudDJtOFFCdm1LOC1yYjdLVlB0NW1ueGYwUWMxTDlsbFNnUQ?oc=5",
-          "ts": 1790499600000,
-          "data": "2026-09-27T09:00:00.000Z"
-        },
-        {
           "titulo": "Ringana to expand into the US with US$85M Virginia investment. - Personal Care Insights",
           "fonte": "Personal Care Insights",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tVjdieUNWTEVZUjltQkFSZGd3YXRDOGtTNnNseWlRTjA1anJUSHB2LXBZcHNzd2RGekxRNERsRFBOUDRORm96MkpKSHZ1YUlHTDJER1ZtdGFQWVozUXJUU29qdlpCT1Y0d0tZSzZ2X2RBSHJuSnc?oc=5",
@@ -308,15 +343,8 @@
           "data": "2026-09-25T14:02:40.000Z"
         },
         {
-          "titulo": "Como ganhar dinheiro na área da beleza: por onde começar - Serasa",
-          "fonte": "Serasa",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UdGs0ZVpZQzVIYnF4blpiZFZQV05kTUJEMUtBcW84eVZhU253bzhRYzZBTjFNeGQ0UnZIMzYyYWN4dVFrOFd1dW5NcHU4c1NtbGJ4ZjlDanM1SVE2eFZlQ2NCVGtZM0kwODU0anBJaUlMUQ?oc=5",
-          "ts": 1790341200000,
-          "data": "2026-09-25T13:00:00.000Z"
-        },
-        {
-          "titulo": "The Vogue Business Beauty Trend Tracker - vogue.com",
-          "fonte": "vogue.com",
+          "titulo": "The Vogue Business Beauty Trend Tracker - Vogue",
+          "fonte": "Vogue",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk?oc=5",
           "ts": 1790328600000,
           "data": "2026-09-25T09:30:00.000Z"
@@ -327,34 +355,6 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzVxUXFpYWo0TGxMTDBnRDktNlc4a3Rjcm02TTFXTjBKR2dreXdkQXowZWY3WnVRamRLemNsZm1QNUE4dEhBYzBWdkRaQ1h0T2NUMU9oa09DeGREb21uaUp5Z1lBOXduV3hXRTNIMFFSYWh6NWJUcjhRbG5kYnhfMW9IU2dIRjJDdldQSzdUamdreXZRRjlmXzZxMDFTeDY5cnRRdE9CZWl2NzJMenRCdXdoVFlFVDk4VnZmNzM1UlJYNzZKeU1j0gHMAUFVX3lxTE5ubEt1ZHpIZmJQU2psQjFOaVlrRHZydkRtVVZmWE1hOU1fbjVkLW5pYnpqYm03bndpQWlIcTRPTDR0OFAzcFNia2F5QmVMYUxBT21UM1JsaTBiNi1kMVFlcTUxV0lBcU41a3l6OWJPQXZHdGtuQ1NtT3dxN1pwaElJdGNJRlpBY1pTekNlLTJmTTl4bE8wU2JjdnBEcGh1QTFuRjcxSnR3Y3RYTURXSVRVWG81bVF3aFRSZDh3Ml9GdjFrZTRzbk5rcGU1YQ?oc=5",
           "ts": 1790280019000,
           "data": "2026-09-24T20:00:19.000Z"
-        },
-        {
-          "titulo": "Quer investir em K-Beauty? Comece por estes 8 produtos de beleza coreanos - topview.com.br",
-          "fonte": "topview.com.br",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHZCTjVnZFMtdzgwa2lDUWxYT3pMVzNTcDBmMHRCTkFRUzFmYmVrZEN5bjE0cUdfSktXaU81OFk3UHBKNG5CbFJhQ05ka294Uk4tc0RybnYtX3NRVURpVWxYSTNPR0hrdWJIZkNnUVoxR21TNElXcU9vR3kzZWNkQTAyN2tYeENVZk1kQXZ6dEV4eko0VTg0U0d3RFZiSHBfM3c?oc=5",
-          "ts": 1790255019000,
-          "data": "2026-09-24T13:03:39.000Z"
-        },
-        {
-          "titulo": "L’Oréal Joins Forces With Nykaa to Invest in Indian Beauty Brands - businessoffashion.com",
-          "fonte": "businessoffashion.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlJZTWhfWG8zRUdSWXZOaWtmY1dEY0NUVk9iamZoRTlTTXRNamJkdkh6N2FHNDdUN25TSkVsWXdzdjlET2JfMnpaZTBSVzRnX2RNSUk3ZUhHTkROSmlGdmtfSnpNbC1IdEh3RENsSXdvS001NzJpRXhuc0pOdFl6UUJTNmo5R3FwdU00WjloZVI?oc=5",
-          "ts": 1790254021000,
-          "data": "2026-09-24T12:47:01.000Z"
-        },
-        {
-          "titulo": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi - jornalcorreiodonorte.com.br",
-          "fonte": "jornalcorreiodonorte.com.br",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObXA4MDFIdWVvWmwzcUR3SzF0OFpZSFB6QzJKNnNqSGdndUpibzNEc0ptX24xTXZQbUctUi0tWG0ySFhvX2d3T3NFa1BINU5rVEdxeU1hRTduMnZmUlJ5R2RkUzAwTEI2Y3VhSDRMd0pEdXRtVm45NUxWZ0s1UDFidVp4NXdkSGZ6T0oycVhrWHNVXzF0V1JmaGNRX0hOQWh1cUJKMEdiTFhic2tJRWxXN0tjTmdudGN4anV4MlFPQTBuSndKVG80bkNLcnpYOG55YW5CUGFJR28tNWlnSy1sbkdUd0ZSclh6RlZ1WdIB8gFBVV95cUxNSGRhVTNncG00QkJvQ2tDNjVRaTYwQ0ZfWHBJeTRCbFA3cWJKcXdMc2tRYkxpRGZ3MEtHUXI4MUNhaEMwaVpzTW9aX1JSSjVWcmp4N3BtMzRWamFvM29YdUxzV0p4ZkV4WEtfdWwtMlVjX2Y0UXlUc2xZMzVLTDF3RWhTRk1vZG5yN2ZPdlJQVTZoYVpTY3E3Q1R3aS12eW5ZSWZPekE5MC1aYXhESldadkp5M2hwQzZYTm5yU0tveEFMUEV6andsZVVnZ3NsRnRXOTJ5dXJBM0psRE9YdDZndEZzUFN4cW83NlZBcWNmR1NHdw?oc=5",
-          "ts": 1790216880000,
-          "data": "2026-09-24T02:28:00.000Z"
-        },
-        {
-          "titulo": "Panvel acelera investimento em cosméticos com nova linha de maquiagens - Jornal do Comércio",
-          "fonte": "Jornal do Comércio",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXFhZU9SLWF5bngxeFdjOU5MRThMVFNUNlc0Q2pDZ0FpZmhnalhiMGFkN3Nfa0J4Y29mRWZHb2ZjZ0IwSHZCRlBhdHRxVVAycGxZdG43a2ZwMFp2cW1WVEZUcmp6amJfQmhsb09sY2ZyOHdXb1QyMVBsOThNMTNMR2VpMEdaM3JhRmQ1dlZrbVlUSjgwNHc4SWlDTDkySVhERDBJNmJDSEpnNWxGckRTd2piVGdUcnJTbThEWmlhU2czS203SE9pbHFsOXhDSDBR?oc=5",
-          "ts": 1790078150000,
-          "data": "2026-09-22T11:55:50.000Z"
         }
       ]
     },
@@ -362,6 +362,13 @@
       "id": "logistica",
       "nome": "Logística",
       "itens": [
+        {
+          "titulo": "Do clique à entrega: Shopee ajuda a moldar a jornada de compra online no Brasil - InfoMoney",
+          "fonte": "InfoMoney",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkt6cERJU25PR3dTazA1OWVMZmIxdTRKYWFTUXZqcVB4ODlsNkZTRHF5cWNKRE9FS2JIVHJ2X3NKTjlUa2xOeDZSbjMtN0hKcE41OUFCLXFfQjBkdnQwU202YTBiajlTbUM5N2dTeFd6VWR5WkhCRzRKWHgxVEhLdGdBVXJvVC03Sk10QlhKZTNwME5XTTVfTl9YbmVzbTFPU1Z0d2pDeWpHczNIU0h2Y0tiUThzRWfSAbwBQVVfeXFMTnd2NWU5am9WRUtYZ1hnUTl0YklJTnl1dUg5N2ZqdVoySmZ5UGxTN0xfelFvVnZQTTRYNnNkRl91SEdyeDB1bW5yaXZlWW9ubFplSkE1UGFjcVJ1cXVsRTYwRXV1UUdPSHVwVWRsLVVleUdTR2J6UlhUQkVjRkllZWNVSlQtaTZMMC1hWlVSa0dzVjMzcFhpMTBuMUxXOUxGQnV3SE96NHpYdzdCNWF1V2RFRlMyT1JVQXRrNms?oc=5",
+          "ts": 1790683440000,
+          "data": "2026-09-29T12:04:00.000Z"
+        },
         {
           "titulo": "Mercado Livre terá entrega em 60 minutos e remédios com receita - Business Moment",
           "fonte": "Business Moment",
@@ -419,25 +426,18 @@
           "data": "2026-09-23T21:38:45.000Z"
         },
         {
-          "titulo": "Seara adota Inteligência Artificial para monitorar entregas em tempo real - Mundo Logística",
-          "fonte": "Mundo Logística",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHhhQ09pMU9iSVZWT2FSMWlBeG9XNnV5emNJVDZJRmZoLTI4T0dzUFM1SExtUUdDbDkxcDI1VHpITThDUTVOUE5YUnNXeDg1WC1PSnpic0pCMDM2bDR1UVhrY283RXJQU0puem9UOEsxa20tVzNPSFlGYk1ESGtLc0hObllrdVY4SHR5R0ZGUDVRMjEta0FLalB0WnJoTVd0ek45OV9wODB1WlBxNGtwcTBn?oc=5",
-          "ts": 1790173345000,
-          "data": "2026-09-23T14:22:25.000Z"
-        },
-        {
-          "titulo": "Marketplaces disputam fidelidade nas favelas na Black Friday 2026 - E-Commerce Brasil",
-          "fonte": "E-Commerce Brasil",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1ZLcXQyeGN0aFAxSnAzV3BCc280NkxZc1FOQ3N2TG5HN19UbVJicU9HY2JLS2xVNS00WUlNWUFYV05NSEJIUE1SN011OC1IandZa1I3eFhnX2MxRUlmQ2NvaTcwbFhhNFA2cUtod3AyY3JzV0NKNUk3Z1NNby04bklTRFUyZm9XSVg0cUQxb2NMcHB0SnhreFM4NG1SQVRwcGszSlVYNmVQd0huWGc?oc=5",
-          "ts": 1790166600000,
-          "data": "2026-09-23T12:30:00.000Z"
-        },
-        {
-          "titulo": "O americano que veio da Amazon e levou esta empresa brasileira de logística aos R$ 200 milhões - Exame",
-          "fonte": "Exame",
+          "titulo": "O americano que veio da Amazon e levou esta empresa brasileira de logística aos R$ 200 milhões - exame.com",
+          "fonte": "exame.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODREdXd5dHBTYnRRMHM3Sks3WmRhXzBpcVEtTExWOXY5Rmtlb1ZUc0JjZWxTcXZDeVM2M1NxdGlweGI0RTZ5ejNXXzBXSjltWlB4RmJfb0lHRDF1aFByc2c0UnBoY05ZZ2kzRHN0aDhLa0Z2OEpDU3pwbFJnaGRvZWVqM09GQUZTVnBaR2NrQ2k0eFQ0RkM0czNDVFlLWG0zNjEtd0NLYWtKMmE3aTFxZUtLZG1aSUN0MXFsSGtn?oc=5",
           "ts": 1790157981000,
           "data": "2026-09-23T10:06:21.000Z"
+        },
+        {
+          "titulo": "Ford revela três versões da Transit City elétrica para o Brasil - Tecnologística",
+          "fonte": "Tecnologística",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3ZXNk5aWmszOHNBSmdfd2pVSGJIc0x6VWh1eWV0V0tyeE5TQ3hCY0hTcjVEUmg2MlpXd2NxRlkyb2Fwc2VaeDJYR1pwcjhYb1VveW0wV2EtN1YxdzN6bGpsQnpxcW56dk1SOFN2YUI5YnZ4SmNMa1d6OTdFeXlPNWttczYwWDRfMy0xUlFSandMbE45SS1HbzdQUlRaRUVJbGJZdmk1NkxhcXloOU5yMXItWkl2aFZ0dVM0MmVLQ2lHRUdtcWtuQ3ZxdlI5VXZQTHc?oc=5",
+          "ts": 1789455600000,
+          "data": "2026-09-15T07:00:00.000Z"
         },
         {
           "titulo": "Notícias - Tecnologística",
@@ -462,16 +462,9 @@
         {
           "titulo": "Marca queridinha do TikTok chega ao Brasil com maquiagem de R$ 45, igual à queridinha de luxo - tvfoco.uai.com.br",
           "fonte": "tvfoco.uai.com.br",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2JmcWtoNzVTODVPeU5LOG9QZG5NbnhrSVNyaGNNcXJ5T2hkQlJRV3NkQWxjR0twUjNHdXB5Q2tJaE1hak1aMTE1MENIblR0MVhjOHRxQks0OU5yNzdYZzh1cUlMeDlEUWpFQTE3ZjNiMFU1N0RCY0hyQ29SdmstaVhZUktkSGNF0gGIAUFVX3lxTE5HYmZxa2g3NVM4NU95Tks4b1Bkbk1ueGtJU3JoY01xcnlPaGRCUlFXc2RBbGNHS3BSM0d1cHlDa0loTWFqTVoxMTUwQ0huVHQxWGM4dHFCSzQ5TnI3N1hnOHVxSUx4OURRakVBMTdmM2IwVTU3REJjSHJDb1J2ay1pWFlSS2RIY0U?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGtVVXdydHJIN3RkU2dwa0EyQVYzSXkxWk5RVm0wRU4yZ2YtZ2dLbHZUdUl4XzFBdTIwZWVBSHB6REFSSVpEOXlfZHBFZmVqRHdXVUhOa3lCdmx4YlVaejJMYmlwS0pScVM5Y3JBWm5tRDlCeHlYN01IQU1KQ2tGZFp0OVVjLVltS3o4WnZR0gGOAUFVX3lxTE9Qa1VVd3J0ckg3dGRTZ3BrQTJBVjNJeTFaTlFWbTBFTjJnZi1nZ0tsdlR1SXhfMUF1MjBlZUFIcHpEQVJJWkQ5eV9kcEVmZWpEd1dVSE5reUJ2bHhiVVp6MkxiaXBLSlJxUzljckFabm1EOUJ4eVg3TUhBTUpDa0ZkWnQ5VWMtWW1LejhadlE?oc=5",
           "ts": 1790443287000,
           "data": "2026-09-26T17:21:27.000Z"
-        },
-        {
-          "titulo": "Ficou ainda melhor: Mary Kay traz a evolução da Base TimeWise 3D® - stiftmelk.at",
-          "fonte": "stiftmelk.at",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGs2QzJvTmYtcFZyQmpfTURUYjdYYlNTV3VUMTM4andwSTcxSm43NVUwX0pucVdIeGpUdFZwaU5KRmIzZjlnVlh5VTFuZlg1dTdRdjZzczJSU1ZvUWtKVTd2NTh2Q0xDZ29NM183QTFPdGd2YmV4Z1p3YURRSEt4b0lTU0F3UTVPT2FEWml2SjlrZTBlM3hTWE9qQQ?oc=5",
-          "ts": 1790357160000,
-          "data": "2026-09-25T17:26:00.000Z"
         },
         {
           "titulo": "Even e BT21 se unem para o lançamento de coleção de produtos de higiene - GKPB - Geek Publicitário",
@@ -502,8 +495,8 @@
           "data": "2026-09-23T18:12:28.000Z"
         },
         {
-          "titulo": "Bio Extratus lança linha de cuidados capilares inspirada em Monster High - EP Grupo",
-          "fonte": "EP Grupo",
+          "titulo": "Bio Extratus lança linha de cuidados capilares inspirada em Monster High - epgrupo.com.br",
+          "fonte": "epgrupo.com.br",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb3lYQWhLajBNWG5OSnRQVHd1dFJwam9yVnNtN3ZMcHBKbExIbmRPSm56UGZ3VlgtdVJvM1doZXZpSGdmNUdsOVNpQXRTMXdDVE1wS1A0ZUtMa3dUTFpFVXF0UXd3SWotcVg4YUhEREQzM2dKNy01QzVjVWlYam1ZenlwTk9VSHJpZ3BGVFNVMUZUMWZBbHRVY3pVTlY?oc=5",
           "ts": 1790101834000,
           "data": "2026-09-22T18:30:34.000Z"
@@ -515,88 +508,88 @@
       "nome": "Marketing & Venda Digital",
       "itens": [
         {
-          "titulo": "MP das bets: entidades pedem suspensão da medida no STF",
+          "titulo": "Consumidores são mais receptíveis a anúncios no Google",
           "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/marketing/mp-das-bets-entidades-pedem-suspensao-da-medida-no-stf",
-          "ts": 1790611067000,
-          "data": "2026-09-28T15:57:47.000Z"
+          "url": "https://www.meioemensagem.com.br/midia/consumidores-sao-mais-receptiveis-a-anuncios-no-google",
+          "ts": 1790691280000,
+          "data": "2026-09-29T14:14:40.000Z"
         },
         {
-          "titulo": "Mérito que supera a vaidade",
+          "titulo": "Michelle Trombelli assume jornalismo da Rádio Eldorado",
           "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/opiniao/merito-que-supera-a-vaidade",
-          "ts": 1790607835000,
-          "data": "2026-09-28T15:03:55.000Z"
+          "url": "https://www.meioemensagem.com.br/gente/michelle-trombelli-assume-jornalismo-da-radio-eldorado",
+          "ts": 1790690602000,
+          "data": "2026-09-29T14:03:22.000Z"
         },
         {
-          "titulo": "O que uma internação me ensinou sobre parar",
+          "titulo": "Falas WW #60: O esporte feminino virou mesmo negócio?",
           "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/womentowatch/o-que-uma-internacao-me-ensinou-sobre-parar",
-          "ts": 1790606404000,
-          "data": "2026-09-28T14:40:04.000Z"
+          "url": "https://www.meioemensagem.com.br/womentowatch/falas-ww-60-o-esporte-feminino-virou-mesmo-negocio",
+          "ts": 1790687169000,
+          "data": "2026-09-29T13:06:09.000Z"
         },
         {
-          "titulo": "Home office é o fator que mais atrai candidatos no marketing",
+          "titulo": "Taxa de recompra: a métrica que a maioria dos e-commerces ainda mede errado - E-Commerce Brasil",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjViLUwtdGxIMV9KSGpwckhCZDc5dHdoLWZXQlpLc2c2TXZoX1ZVWGJLeWtvdS1Ld01EMkw4WjNZZkw0N0dVM3B6c2ZtUDlJVEJBV05mYXJfRUNQd195bDhQZ3FXeV9vdzlWaUxGU2dSRFRVaFhNUnloVS1PZ19RQ2lWYjBGWjBGVjJ4VEpsajU2Nml3TnZzZElUT2ZCaUdGbGx3S1pNeUhESmpUcUdmZXdKZThLTmc5?oc=5",
+          "ts": 1790683200000,
+          "data": "2026-09-29T12:00:00.000Z"
+        },
+        {
+          "titulo": "Como funciona a parceria da Anitta com o Grupo Mercado Livre?",
           "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/marketing/home-office-e-o-fator-que-mais-atrai-candidatos-no-marketing",
-          "ts": 1790600548000,
-          "data": "2026-09-28T13:02:28.000Z"
+          "url": "https://www.meioemensagem.com.br/marketing/como-funciona-a-parceria-da-anitta-com-o-grupo-mercado-livre",
+          "ts": 1790672637000,
+          "data": "2026-09-29T09:03:57.000Z"
         },
         {
-          "titulo": "O que o feminismo diz sobre a virtude das agências",
+          "titulo": "Autenticidade se clona?",
           "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/opiniao/o-que-o-feminismo-diz-sobre-a-virtude-das-agencias",
-          "ts": 1790600408000,
-          "data": "2026-09-28T13:00:08.000Z"
+          "url": "https://www.meioemensagem.com.br/opiniao/autenticidade-se-clona",
+          "ts": 1790672452000,
+          "data": "2026-09-29T09:00:52.000Z"
         },
         {
-          "titulo": "Como o propósito pode mudar os rumos de uma carreira",
+          "titulo": "Neve recria Alfredo com inteligência artificial",
           "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/womentowatch/como-o-proposito-pode-mudar-os-rumos-de-uma-carreira",
-          "ts": 1790598709000,
-          "data": "2026-09-28T12:31:49.000Z"
+          "url": "https://www.meioemensagem.com.br/comunicacao/neve-recria-alfredo-com-inteligencia-artificial",
+          "ts": 1790672425000,
+          "data": "2026-09-29T09:00:25.000Z"
         },
         {
-          "titulo": "Dark Lab amplia presença no Mercado Livre em ciclo de crescimento digital e expansão internacional - ABC da Comunicação",
-          "fonte": "ABC da Comunicação",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM3RkS3BMeGlxWC1lNWdfNUlZQTNTZUVEekRvcUZwYnZ0ZklsdDlNSjZoVUktWU1ELTN4eDBHQzZJY3N1VHdEOVY4QmVoWUdRR1lKUm1uQ0liR1JUWXo5RENQZk1WZmlpNkd5ZHJDenpXRTc2T3l5MUp3NEpmY1E4WnlET1BQWWtXcHdHMWYzY0RidWpuZ01sMG10Z3ZMSEd6OXp1ak14V0czVk9nQjY2Y291WG9zdG1CbjhJVVNCdzRvUlhHRUx0NVB3NFpaZ1ZY?oc=5",
-          "ts": 1790366938000,
-          "data": "2026-09-25T20:08:58.000Z"
+          "titulo": "Rise Growth Marketing conquista seis troféus no Prêmio ABEMD 2026 e é Agência do Ano - Grandes Nomes da Propaganda",
+          "fonte": "Grandes Nomes da Propaganda",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdU8xVXlLNmxXdUgwdHB2eDNVSlBqTGdxbkhDNTJhYmR6Qld4S0tsT05QQlR6U0Y1OGRkNU43ZnJKamJHVmRVNkFpczJQbG1IUkJKc2RfbkVXQXV6Vl9Ma0FJRFZxOFpRWjlkcW5pMm52WEtLU0IwYXktQXRQWV9YVjJwcHB3bUhXa2J4SmdETEhmSWZvZW50TjVOWER4TVk?oc=5",
+          "ts": 1790628251000,
+          "data": "2026-09-28T20:44:11.000Z"
         },
         {
-          "titulo": "CONVERT LANÇA VERUS, PLATAFORMA DE INTELIGÊNCIA ANALÍTICA PARA MARKETING - fernandovasconcelos.com",
-          "fonte": "fernandovasconcelos.com",
+          "titulo": "Tuchê Digital fortalece atuação no Sul com marketing de performance orientado por dados - Portal Menina",
+          "fonte": "Portal Menina",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVhuQThXTVd1Tm5GWnZheGh2RW9rdkVNSzc1TEgwSkUtLXZPX0RKdF9XOC1Zb2x1T1FyQWJKaTlySE4zRF9JOWluT1ZwSWp4TVdZYnMtRVFJTkE3OWJheGtabXVvTlhnbldFbGpXUzF1XzI0VWpoRFljcmxCVXBOXzdqWU16YjZLUlQ4ZnlnU1pQWlVDVzFMOFJyREpDUUNXbXlfOV93d3hvZVJPaldpWXBSSkNlZTQ?oc=5",
+          "ts": 1790613358000,
+          "data": "2026-09-28T16:35:58.000Z"
+        },
+        {
+          "titulo": "CONVERT LANÇA VERUS, PLATAFORMA DE INTELIGÊNCIA ANALÍTICA PARA MARKETING - Fernando Vasconcelos",
+          "fonte": "Fernando Vasconcelos",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzhDNWVsMU5EZVNPLU83QlVfUjhIeGpoQ1dVNHR3STRGeXIzYnJZUGpYNHBfbGxEZmt1X2p5UEFJZE9hUkxoTTJGV0dEdllKVnpWVm52TUg3b0tid3RKeEZMLTJ5US1PZm1uX19GZFZVZHpVS0ZSOXhzM3RjUkVudDV6U3ZoTVRNX0R6OXNtbG92NjQyUnV4WWFzOXIydi1HUnVWX2FYSQ?oc=5",
           "ts": 1790288077000,
           "data": "2026-09-24T22:14:37.000Z"
         },
         {
-          "titulo": "Mercado Ads e Netflix Ads anunciam parceria para publicidade em CTV - abramark.com.br",
-          "fonte": "abramark.com.br",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2I2UHZkdkFqcGt6SHNkU2p5c3U3cWlvaC1uQ2NBUXdMOGNxY094OFJBV1NoazFFZmdOY1VYUktKWk9mVDhfSlNoZ29JdWxIeU52MncyQ2E3RklSQV9PSmNLU29TMXR3UUYtdWcxZjl2OFNVX1I0eG15eEJfMGdjdk9XSXlzaU9UOUhRRThVTUp2MElZTnhxU294UklNcUpMWndJcmRHQXhsRElUc2duZE9tTDk?oc=5",
-          "ts": 1790273160000,
-          "data": "2026-09-24T18:06:00.000Z"
-        },
-        {
-          "titulo": "Transformação digital do consumo exige dados acionáveis e eliminação de fricções no checkout do comércio eletrônico - brasilinovador.com.br",
-          "fonte": "brasilinovador.com.br",
+          "titulo": "Transformação digital do consumo exige dados acionáveis e eliminação de fricções no checkout do comércio eletrônico - Brasil Inovador",
+          "fonte": "Brasil Inovador",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ20wNW1TblZ4ZlZ0bEhHTXU2YjhEakRKSzZjUHVrZ0pNZU1JTVk0V1UwRk05elpOeTViMHFKSDRJcjVPSjFxRjJYM1A1N2Q2aU1WZTgwOGdhMFBOYTlLR3VCWFV2SlRZWnlDY3Y3ZDFSR3JlNlZaNU5sVnh4LXJrVUJ6ZGhUN2dyRnl2X1hTSEQ4ZDgxV3p3TzdqeGFlc0dVeE5DZjdVWF9DbC13cFMwa2U0VHpSWVlSNGFMYjZsd3pRREtlbmhERWpyR3E3MzFOQXp1b2hGMktjYmY2U3JN?oc=5",
           "ts": 1790210427000,
           "data": "2026-09-24T00:40:27.000Z"
         },
         {
-          "titulo": "PACE anuncia Felix Fontes como Diretor de Mídia - grandesnomesdapropaganda.com.br",
-          "fonte": "grandesnomesdapropaganda.com.br",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYU9jNVc3OGJJSVp1aUppaDNMVTJPZU9OUnJFb1RXb013ODdWeXVCSzliT1VNemNVQUYzNHBsd0JVVmFQNEFITTlCRUo3Qld5M0pKU1locVNXZ0c1dFBJMHFfLVBOUmR2MnZzRnQ1cUoyWUs1QUM5WVg1V3RJWlZ0WGNhY1FtU19PdHNocXE2YzhjTzIwcDRKZG9jN1VSZw?oc=5",
-          "ts": 1790192072000,
-          "data": "2026-09-23T19:34:32.000Z"
-        },
-        {
-          "titulo": "Empresa do Ano RD Station reposiciona operação e aposta em business performance para responder às mudanças do mercado - Portal G7 ABC",
-          "fonte": "Portal G7 ABC",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYml1VGJ0MnhlcjBFMHhLOGNaVWUxcDdCN3F0M09kRUUzcUk3a25odnFNMy1hTmZ2V2tuOEdVbGFzRHM2emZDU21qalotcTA5QjRadnpPZURtMGc0OFVreE9wcWhfYnk1LXlFRDhQWjdXMDNIUWhSc1VFWlp3ZGlXZFZDWWdkTVZicDZISVV5YzY2VUVhTHBpanZwVE9RQjUzMzFGd0licW5qMVp0aEl1V0hWMkZvUEJHekQwakNIRjZkeUpqWHU1MDJLVjR3Qjlic01XS2I3M0FIb3ZpY0E1cGJaOA?oc=5",
-          "ts": 1790012115000,
-          "data": "2026-09-21T17:35:15.000Z"
+          "titulo": "Convert lança Verus, plataforma de IA para análise de marketing - Propmark",
+          "fonte": "Propmark",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZE04aDYxZlhwX3JaM0wxc2NrQXF2QmRUMVd2YWhwVXpZYlZ4OTg5cmpSb0FrQzRCRmFoZE14UGlvemd3ZDVIdG03WmtzVDgwMzh6SmE2XzZGLXFreFkxMXZtT1NSUzRNREg2UXZJTXM1MXQzS2tEQnJ0dlhWNk1zdjZiNUd2VS1uMWpZbnotTHBXb0NRUy10bkJmRS0?oc=5",
+          "ts": 1790173440000,
+          "data": "2026-09-23T14:24:00.000Z"
         }
       ]
     }

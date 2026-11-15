@@ -1,13 +1,29 @@
 {
-  "gerado_em": "2026-11-14T14:36:14.501Z",
-  "total_materias": 83,
-  "fontes_ok": 18,
-  "fontes_falha": [],
+  "gerado_em": "2026-11-15T15:04:23.253Z",
+  "total_materias": 76,
+  "fontes_ok": 17,
+  "fontes_falha": [
+    "Marketing & Venda Digital → Meio & Mensagem: HTTP 502"
+  ],
   "categorias": [
     {
       "id": "ecommerce",
       "nome": "E-commerce & Varejo",
       "itens": [
+        {
+          "titulo": "“Mais sangue e suor do que genialidade”: Marcus Teles fala sobre o crescimento da Leitura",
+          "fonte": "Mercado&Consumo",
+          "url": "https://mercadoeconsumo.com.br/15/11/2026/entrevistas/mais-sangue-e-suor-do-que-genialidade-marcus-teles-fala-sobre-o-crescimento-da-leitura/",
+          "ts": 1794747613000,
+          "data": "2026-11-15T13:00:13.000Z"
+        },
+        {
+          "titulo": "Pequenos empreendedores ampliam vendas com o e-commerce - SBT News",
+          "fonte": "SBT News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEpmejA5d1NWV2VSZHo0M29SWlcta1NFR2E5NktSQklFRUpZUHRaaUFISWpOX0l1LThwZ190eUZnWkszQ2F3Y29LbDg1Q1Rhc3AwRnZSTnljVUFza3RPVk9lUGJ1YW1lS1c1NE1pbjhPYk11VjdLTnhjbkZmX09nYldsZ1pWcVFJX2E2QjF6Q1l4dnNvcTFhTFcxekN1bnJx?oc=5",
+          "ts": 1794685500000,
+          "data": "2026-11-14T19:45:00.000Z"
+        },
         {
           "titulo": "99Pay lança aulas online gratuitas de finanças para motoristas e entregadores",
           "fonte": "Mercado&Consumo",
@@ -72,13 +88,6 @@
           "data": "2026-11-13T19:27:32.000Z"
         },
         {
-          "titulo": "Live M&C: as lições da Coreia do Sul para o varejo brasileiro",
-          "fonte": "Mercado&Consumo",
-          "url": "https://mercadoeconsumo.com.br/13/11/2026/noticias-varejo/live-mc-as-licoes-da-coreia-do-sul-para-o-varejo-brasileiro/",
-          "ts": 1794596605000,
-          "data": "2026-11-13T19:03:25.000Z"
-        },
-        {
           "titulo": "Como a Dasa engajou 2 mil funcionários para criar suas próprias soluções de IA",
           "fonte": "Consumidor Moderno",
           "url": "https://consumidormoderno.com.br/dasa-inteligencia-artificial-medicina-diagnostica/",
@@ -107,18 +116,11 @@
           "data": "2026-11-13T16:20:44.000Z"
         },
         {
-          "titulo": "Big Box Briefing: How Target’s and Walmart’s beauty department makeovers are reshaping brand strategies",
-          "fonte": "Modern Retail",
-          "url": "https://www.modernretail.co/operations/big-box-briefing-how-targets-and-walmarts-beauty-department-makeovers-are-reshaping-brand-strategies/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "ts": 1794578400000,
-          "data": "2026-11-13T14:00:00.000Z"
-        },
-        {
-          "titulo": "Microsoft enfrenta apagão de mais de 12 horas em serviços do 365 - E-Commerce Brasil",
-          "fonte": "E-Commerce Brasil",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeklZaklDZGZqd09HX19rQnZQcklEdzEwcjNoV2hnaGU4MjVYZ25yN2lrdWpVakdodk5NeGljREFZaDdmYzdoVklGd2t5b2E5X21nRlRsOTJkOVQ5UEVFZHltblZQcUQ2ZkdKLWg0Skg5UDh2VzFKaDc3NUEzQ0UzRmkyUkdsc0RwOXJQeEdKcw?oc=5",
-          "ts": 1794575329000,
-          "data": "2026-11-13T13:08:49.000Z"
+          "titulo": "Dourados recebe especialistas em comércio digital para fortalecer vendas do varejo - Agência Sebrae de Notícias",
+          "fonte": "Agência Sebrae de Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSEdJVkpHSEZSeGphVFFLd3BweDZaRUhXVlQ1cS1BSUw5WEdUdWFhMkVhd0l5SlBKMUJFX1M0aHRld0xLS1VNbXFTaGZFV0NGaWNDc1hReDhZNHR1OFp6RE11SmtXckdzUnZjdTZrRDl4NlhKRGZFVHU5a0Uxc2lKYnNyX09VWXdOTXFVbUljNUdjbGNTZmN2bVhCNVQtQW94VzVVM1lOM0ZwZXNxNFhmeHZiUXh6TTB5VWZvZTI5NWY2dXhpYm05NGF6Q3NzQXVsSGlN?oc=5",
+          "ts": 1794581391000,
+          "data": "2026-11-13T14:49:51.000Z"
         }
       ]
     },
@@ -245,6 +247,34 @@
       "nome": "Investimento & Mercado",
       "itens": [
         {
+          "titulo": "Como Regina Casé levou a favela e o funk para o horário nobre e ajudou a mudar a TV brasileira",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/como-regina-case-levou-a-favela-e-o-funk-para-o-horario-nobre-e-ajudou-a-mudar-a-tv-brasileira/",
+          "ts": 1794743650000,
+          "data": "2026-11-15T11:54:10.000Z"
+        },
+        {
+          "titulo": "O vinho alemão busca seu lugar fora da garrafa azul",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/o-vinho-alemao-busca-seu-lugar-fora-da-garrafa-azul/",
+          "ts": 1794743555000,
+          "data": "2026-11-15T11:52:35.000Z"
+        },
+        {
+          "titulo": "Cézanne, o incompreendido que mudou a pintura, ainda inspira gerações",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/cezanne-o-incompreendido-que-mudou-a-pintura-ainda-inspira-geracoes/",
+          "ts": 1794685208000,
+          "data": "2026-11-14T19:40:08.000Z"
+        },
+        {
+          "titulo": "Da máquina de costura à IA, as invenções de Renzo Rosso, o “senhor do luxo alternativo”",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/finde/da-maquina-de-costura-a-ia-as-invencoes-de-renzo-rosso-o-senhor-do-luxo-alternativo/",
+          "ts": 1794685178000,
+          "data": "2026-11-14T19:39:38.000Z"
+        },
+        {
           "titulo": "Alerta de “apagão” nos escritórios: o videogame GTA VI vem aí",
           "fonte": "NeoFeed",
           "url": "https://neofeed.com.br/finde/alerta-de-apagao-nos-escritorios-o-videogame-gta-vi-vem-ai/",
@@ -257,34 +287,6 @@
           "url": "https://neofeed.com.br/videos/circuit-breaker/circuit-breaker-como-a-ia-os-criptoativos-e-a-internacionalizacao-vao-definir-o-futuro-do-mercado-financeiro/",
           "ts": 1794656810000,
           "data": "2026-11-14T11:46:50.000Z"
-        },
-        {
-          "titulo": "Decolagem negada: falha de comunicação provoca apagão aéreo e suspende todos os voos nos EUA",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/negocios/decolagem-negada-falha-de-comunicacao-provoca-apagao-aereo-e-suspende-todos-os-voos-nos-eua/",
-          "ts": 1794608776000,
-          "data": "2026-11-13T22:26:16.000Z"
-        },
-        {
-          "titulo": "Vacância em queda, aluguel em alta: o que pode mexer com os fundos imobiliários de escritórios",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/negocios/vacancia-em-queda-aluguel-em-alta-o-que-pode-mexer-com-os-fundos-imobiliarios-de-escritorios/",
-          "ts": 1794603657000,
-          "data": "2026-11-13T21:00:57.000Z"
-        },
-        {
-          "titulo": "Blue Tree já se prepara para escala 5×2 e prevê necessidade de contratar mais funcionários",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/videos/neoconference2026-videos/blue-tree-ja-se-prepara-para-escala-5x2-e-preve-necessidade-de-contratar-mais-funcionarios/",
-          "ts": 1794601086000,
-          "data": "2026-11-13T20:18:06.000Z"
-        },
-        {
-          "titulo": "Circuit Breaker: a desbancarização que reinventou os grandes bancos brasileiros",
-          "fonte": "NeoFeed",
-          "url": "https://neofeed.com.br/videos/circuit-breaker/circuit-breaker-a-desbancarizacao-que-reinventou-os-grandes-bancos-brasileiros/",
-          "ts": 1794600406000,
-          "data": "2026-11-13T20:06:46.000Z"
         },
         {
           "titulo": "Após BTS e Blackpink, beleza coreana chega a Wall Street em novo ETF - InvestNews",
@@ -308,13 +310,6 @@
           "data": "2026-11-13T05:03:06.000Z"
         },
         {
-          "titulo": "Beauty’s Growing Pains: What’s Making It Harder To Scale A Brand? - Beauty Independent",
-          "fonte": "Beauty Independent",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHJkWmhiTzJvQnNENmtmNXNQbWl0ODRXa0ZzWlB4bzdaZmlqY2t6bHNrRks1TVlWQ1hNdFFVREFKdTRxcDRLeTBra0ZQWHRTU0E0blV4OUNQUHptbmZyOU96ZmFoZU9QU0Y1d2NlbkdIQmtHQVN5QXNEOUVSbXJoZnJZX3pHM1VkbzhnMVE5cw?oc=5",
-          "ts": 1794546098000,
-          "data": "2026-11-13T05:01:38.000Z"
-        },
-        {
           "titulo": "e.l.f. Beauty Targets 50% Clean Electricity for Manufacturing Suppliers by 2032 - e.l.f. Beauty",
           "fonte": "e.l.f. Beauty",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdW8yamI3Yy1JMncyN0dGY2FHdDRZdVFOYjlNUGVjRkdUVTZiQ1NjT2c3SU1ia0M4UUZ3OFNjaEhxaWJ6NlU5VW02MmotOFQ5QS1wbFI4Vkx2bnR6eHdqdndwUkVjSlRvX1NjWk9xa19pb3FGU3QzQmVsdkNVem12NEwydERnekdlRWs0UjFJalNvRWJXRm8zeU43bTVmQk83OWlJVmRacXBZOVo5VlNnMGhn?oc=5",
@@ -329,18 +324,11 @@
           "data": "2026-11-12T08:10:15.000Z"
         },
         {
-          "titulo": "JBS compra Flora por US$ 542 milhões e amplia atuação nos mercados de beleza, higiene e bem-estar - Feed&Food",
-          "fonte": "Feed&Food",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc1ZkUGlheTQ3cUZwOVVid3I5S0N1eE5HWnZqLW53ZWlvd000MDFSemJXb3ZoTFUyckt3eHZMUXI1Vi1iMW1WTjB5N1F5ckNOdkxLWU5QWDRTZFR5cUlkS1cxenhwemx0V2xKWE5za256MDFDWFlrTXlRLU5uOVBBMkRBbWdsUW0xZ2M3YTVVcDBKVmhic2lEdFp3SjVPdXdXR192Q2ZyQnlmUWpWNkxtdThyMXAxUGxyM2xhQQ?oc=5",
-          "ts": 1794463380000,
-          "data": "2026-11-12T06:03:00.000Z"
-        },
-        {
-          "titulo": "K-Beauty Brand Anua Cracked TikTok. What’s Next? - Vogue",
+          "titulo": "The Vogue Business Funding Tracker - Vogue",
           "fonte": "Vogue",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3h5SG4yTGdfM2dPNnRaQm5HcVlrRUYtYVlyeDJRc3dhaEpDUzdUNllOdkN1bnFWOFJKVG9SczV3b2Y5Qk1UNkNvNnpUYVdEempHR0RZejRlNkpadS00ZzJKdGNTRjVvb1FDLWp6dXRXM3FuRGtUd0d2bUtOMTM3ZA?oc=5",
-          "ts": 1794375000000,
-          "data": "2026-11-11T05:30:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02b2Y4OEVBeU4yMzJ6UFdZNlFOZzBMWWdfVGVJaWVIVnREZVM2OEZBdkRfQ21lWlR3T1QxSHZ6dHZDVHR6VU82U1YzY2xObU1UejJ4QzVRRXpvM3R5SXBGdDMyNXRaTnBNTmlSRnQ3OHhsZw?oc=5",
+          "ts": 1794469244000,
+          "data": "2026-11-12T07:40:44.000Z"
         },
         {
           "titulo": "BREAKING: JBS adquire Flora, negócio de higiene e beleza da J&F, por R$ 3 bi - The AgriBiz",
@@ -355,6 +343,20 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjl6aGc3bXBQdnNMaTdvaWxHWklJY0ZXNXl4NjJzdFltTlUtQmRndjBUMzVSWXA4RWpLY3NQd2tYUzRmclAyZEstcWhiRHpoQ1ZLN3ZoSmtmcDJfUlg1d1U1cnJ6WnMyQ0ZYU0kycm03MU5xWElxU05BVXh6aGh6OUlQX25EX1VDSHhnVmpPUnVMMTRxVFQ5SXg5VjJiSUQtQlhyaHluZnVDNjRXbldN?oc=5",
           "ts": 1794325705000,
           "data": "2026-11-10T15:48:25.000Z"
+        },
+        {
+          "titulo": "Como ganhar dinheiro na área da beleza: por onde começar - Serasa",
+          "fonte": "Serasa",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UdGs0ZVpZQzVIYnF4blpiZFZQV05kTUJEMUtBcW84eVZhU253bzhRYzZBTjFNeGQ0UnZIMzYyYWN4dVFrOFd1dW5NcHU4c1NtbGJ4ZjlDanM1SVE2eFZlQ2NCVGtZM0kwODU0anBJaUlMUQ?oc=5",
+          "ts": 1794319200000,
+          "data": "2026-11-10T14:00:00.000Z"
+        },
+        {
+          "titulo": "JBS entra no mercado de cuidados pessoais com aquisição da Flora por US$ 542 milhões - Fator Brasil",
+          "fonte": "Fator Brasil",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbDEtcEtac2VkRllHVHljdUVMMnR3NDlGc1lEZVBJbFBDVVpsYjVJNTVjcElZTFB1d3hmQ2drWTZHNXFUYmVYbnp0dnFOSmZVVDJJV2xKU0JvcDhjc2E3R2QtbmF3alduR3VoQndsRU9nMWtuWHQ5Y2ppcWFIb2NrMFpjNXE3bVV3ZEFxZkRSTUQwU3NNY2M1VXhTNTB5MFd4SHNOd1FUSzZLc0FsOUN1Wmc0d1B4dnV3WjA3X19MVUxIb29XRUdKUFdwQlFmZw?oc=5",
+          "ts": 1794305866000,
+          "data": "2026-11-10T10:17:46.000Z"
         }
       ]
     },
@@ -363,18 +365,11 @@
       "nome": "Logística",
       "itens": [
         {
-          "titulo": "Randoncorp registra receita líquida de R$ 3,5 bilhões no terceiro trimestre - Tecnologística",
-          "fonte": "Tecnologística",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQkRHek5sTzdYNkdOc3pTcEFaaWY5ODJmYnlSekpxUnhFRFVUNHNvN3RBcWZvYVFHZ1R1WlFuZDNjM0dRZ2NRbHlRMW1fdnFRRHIwZmtlQmhJWXhxak9US1EwaWdBMUpFRnpLbGxJV01zellxUFF6UjhYcDYyb1UxbVd1SDJDd2JUV2tpaFlYNmhKY1M3ZUFKTGZ6dXFmNjNMdk5Ga0FrZndvOTdUMUVTNXFtZE03b3h2NlI0TUdrYWhuSzRXeDl2VnFYbDN1Vk9u?oc=5",
-          "ts": 1794608328000,
-          "data": "2026-11-13T22:18:48.000Z"
-        },
-        {
-          "titulo": "Luana Lira Soares - Tecnologística",
-          "fonte": "Tecnologística",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wYk5ib0w5R19DcDhFWWdRcERUaFVBX2d0ODk5Tm1BSWFRWldNb0pOdlZkYTVlSEVfSVU2bWVGSlJrcElPYWNEQUJHT1JqVEFWbC1idmhZVzlxaVFzYUdfN3ZUUDB0VTlEUkRsdA?oc=5",
-          "ts": 1794585027000,
-          "data": "2026-11-13T15:50:27.000Z"
+          "titulo": "Mercado de veículos leves multiuso (LMVs) até 2035: demanda da logística urbana impulsiona CAGR de 5,2% - Notícias e Estatísticas - IndexBox",
+          "fonte": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0d3dkJ4bFZ3bjNjU29ZY0JDOWdZcWNqNXZaYUNSYzlIcTZrZkk1M0hiZkhaSjNadnJ2UGtHZXM2M2VNeTJaMU9zOFViemdQNkQ3UDB2NmN1SnFaWkw4bC1qSERPc21FVTBsdzlJNEdwcVphOWlwRlFpWkVVTVhUazFMYVNJR1RyZ2ZINzhFcVpMbWI5MXZsRnBpNWpqMmdjSTRtLVNjaUdQUmh3VDg2M3pYcGdsaWpLcFZFZ1NTdlBzNHZaVGRlTA?oc=5",
+          "ts": 1794751865000,
+          "data": "2026-11-15T14:11:05.000Z"
         },
         {
           "titulo": "BYD leva à Fenatran caminhões elétricos urbanos com bateria Blade - Canal VE",
@@ -384,11 +379,11 @@
           "data": "2026-11-13T14:17:08.000Z"
         },
         {
-          "titulo": "Pequenos negócios: IA atrai clientes, mas falhas na entrega e falta de crédito travam o crescimento - bra1.com.br",
-          "fonte": "bra1.com.br",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYlptVjNPSWVKMVRaSGZIbFNzMTBvbmNCdHZGN0ZlQjBrSnF5RWlfcWNYbGFQRmIyZFZZaDdmcGhUMWVfRDVRcDE5LUE5aDFfbHJjSF8wZW5jaTlKQkEzQ0FvbHA3V255MUhIbVRxRE83WFBBQjBsVXdhVVZHRlA1NEdBREJrSWpabDBUSGVWd2Yzd0FZbzFHVEFYUmNpZDJrRGZwQ2oyYjZNUEZCUHRvWm5YNWFmeFBnZnZxTWFsTWJVTGdwWkMwdmo1dFRHWVBjeGVodXU5RGQtQQ?oc=5",
-          "ts": 1794499020000,
-          "data": "2026-11-12T15:57:00.000Z"
+          "titulo": "VAMOS apresenta novas modalidades de locação e compra de seminovos na Fenatran 2026 - Tecnologística",
+          "fonte": "Tecnologística",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOazdmV0hpZUFIWkx2X3dia2s1ZXE4ZTNKRWxYNGZ5ck90WC1XZEpkcHBha3otMnJjUzcxSDhCZkwtcjlfLWdVdHo3RlZzYkY5SVp1Z0t0a2VsSmE3R1ZyRWFKZ1JVSGtuVWhJX2pIU2JPNzBrOThjNUNxaUxQQW9qVlp1cTMwVXdXSXBjZkZqYl9nQVNHWWwxYVlRdjdZRFNzUnhyWTlKZGhYXzgwQW81Y2J3ajRrT2dDLUswOTROUlJrbUl0QWtqTWFZbEJKREJ5Q3kxZFZsYXNoNkp6elJ0NHN5bzZoTjlmbEtFdw?oc=5",
+          "ts": 1794573631000,
+          "data": "2026-11-13T12:40:31.000Z"
         },
         {
           "titulo": "Shopee: como o maior CD da empresa funciona por dentro para atender as compras de final de ano? - Estadão",
@@ -419,6 +414,13 @@
           "data": "2026-11-10T13:58:04.000Z"
         },
         {
+          "titulo": "Setor de implementos rodoviários registra queda de 2,32% nos emplacamentos até outubro - Tecnologística",
+          "fonte": "Tecnologística",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzRWWUpyQWhjenVwODd6d3RkRG05SnBnSDJXeTB0NlN2LW5iVDdZX0tMTkRzcFdadW9WV3FHRDJKX1RJd1pFQzRnYlpDWWtRb19fM19hc3BlX2dfUno1RG5mQ3ZmYjZIcEZKV1YwUkRUclVzRmhlaEhrbEExakZmTHFyVjJxS09pbDgwT3hYbEFyQUJLRXpid2huWF9vNjBRSmxLQkRxejBEd0lobmdaMGxQeEwycURJY1hNY0tZZk9yREsyTlF1d1hmQWlJdHh6OFdkUG56SklhUEp3SGR3?oc=5",
+          "ts": 1794243880000,
+          "data": "2026-11-09T17:04:40.000Z"
+        },
+        {
           "titulo": "O que muda para os motoristas com o fim da escala 6x1 - Mundo Logística",
           "fonte": "Mundo Logística",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeW9USDhfQ0VfdFVnRUZ5RktMMzFHMjQwWHYySldObEdsaWE1OG8wM0NtRkxnYktHMkJEclFWS3ZWUHNpaEMwSmk5QWNhc1c3MWxhRWJMMGpoRjIxblVvWl8zVHpqeldUUWhhNXE0RGgzX1lQQURzWUdLd21KVlFJRDZuanFoMXlXRDgxMzk4UEI?oc=5",
@@ -443,8 +445,8 @@
           "titulo": "Mercedes-Benz reestrutura área de Relações Institucionais - Tecnologística",
           "fonte": "Tecnologística",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjR3Tk9PSVhJRjdXRkwwdW5PaWJ2UE5IYWpiS01KUjlhNTY0QlNzSlNaRnpRbUcwbF80V2FlTjVIZDNBNTRmaG1CWlg3alNfQzVSajZyN0pWTnl4SkdpQkxLdzk0MXVVY09la1p2Mm9ISTBTUzVoZ1hjSnVzRXNBOHAwRExSa05EQzRCSDlJU3NuOHBKWW5QVHlwMGtNU2ZLSm92Tl84bmI1X2V6emotMnZoNklWT21xMGRtTXV3?oc=5",
-          "ts": 1793908917000,
-          "data": "2026-11-05T20:01:57.000Z"
+          "ts": 1793865600000,
+          "data": "2026-11-05T08:00:00.000Z"
         }
       ]
     },
@@ -521,13 +523,6 @@
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN0VYTmpXOWxfd3p4dFM3dWxFMl9FMHRTR0gtazUyaU95LW5uR2xJTjlzbFBFWE5uUDM4RHREcXUycFV2RG40amlRb1JGaVpJUlFZY3RtUXNydWZkQWF5SGpMYkRZSXRoa2tEOG9QU0VzeUZmRE1pNjBBYkJFMjV6d2lZSlE5Z05Dck41OHR1ZEVTblBFVnY0amxTNllwckNWd2NkOWtpYnBtOHA2LVNkZGhsaWFnSGRLLTYyNFAyenN3YXZTTXpDSHU3WmtpOUNEMkJSUWJpdml6UkZJYVlRTmdjU01NX2llVWRMRUN3QXpMd9IBgAJBVV95cUxNYklnaWtaVGxVYmdZVWkyNzN3REw5VWVucndFTmNkMHBzd0pzSkFFWUZOTFViQk1sU2NkWFhNLUVUQkhnN3RVSjl4d1FSMlJ4bTVGdWJBdEt5WjBocDNobHBjcVVzVUpGOVp4MDFHTWpNbjB3TklVYUhlNzQ2VmgzNW12YXNjVExQcXJFV1h2SzA4QXo1UGtGOXBpeFB3bjcySUJuQUZ4elhyQU1VbmVjRXhfd295QzhMSW1nc2g1WWVoSkhaLV9vY2t0bF8xXzdCbkhibU96a2tnUWhrNmRSQjRJd285Qm9CaEx0RVVyb1ZRRjEtVmNxb2FLbU05Rjd5?oc=5",
           "ts": 1793692800000,
           "data": "2026-11-03T08:00:00.000Z"
-        },
-        {
-          "titulo": "Evento conservador nos EUA pode ter presença de Flávio e Eduardo - Pleno.News",
-          "fonte": "Pleno.News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYkhMSXU2NUluT05ENEo0RlBjQXBDbldWdlQxWWo2X2NaNm9QZFFwSUUxcms1dnBZNlBzdVBSMUhrVnNxYlFrYml0d0QzdDRmZW13alUza0ljeHdjNng1eXhwSkdWaDhIcDhZcFNiQXRwSC1ldE9qZm1seUM5R3BNNXVadkpfN0hrNF9KRG9sWk1XMWJTeVAzVDF2Y3EyZE90a19lVXVaQjNNWFhnZXdKOEdqaGMxRzhf?oc=5",
-          "ts": 1793606400000,
-          "data": "2026-11-02T08:00:00.000Z"
         }
       ]
     },
@@ -535,48 +530,6 @@
       "id": "marketing",
       "nome": "Marketing & Venda Digital",
       "itens": [
-        {
-          "titulo": "ChatGPT ganha carteira para compras com agentes de IA",
-          "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/marketing/chatgpt-ganha-carteira-para-compras-com-agentes-de-ia",
-          "ts": 1794608305000,
-          "data": "2026-11-13T22:18:25.000Z"
-        },
-        {
-          "titulo": "Sem as bets, Goat interrompe transmissões esportivas",
-          "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/midia/sem-as-bets-goat-interrompe-transmissoes-esportivas",
-          "ts": 1794599214000,
-          "data": "2026-11-13T19:46:54.000Z"
-        },
-        {
-          "titulo": "Isla reforça criação com chegada de diretora de arte",
-          "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/gente/isla-reforca-criacao-com-chegada-de-diretora-de-arte",
-          "ts": 1794598965000,
-          "data": "2026-11-13T19:42:45.000Z"
-        },
-        {
-          "titulo": "Publicitários Negros quer fortalecer conexões no mercado",
-          "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/comunicacao/publicitarios-negros-quer-fortalecer-conexoes-no-mercado",
-          "ts": 1794598551000,
-          "data": "2026-11-13T19:35:51.000Z"
-        },
-        {
-          "titulo": "Canal Rural faz guinada ao mobile para refletir o agro",
-          "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/midia/canal-rural-faz-guinada-ao-mobile-para-refletir-o-agro",
-          "ts": 1794598023000,
-          "data": "2026-11-13T19:27:03.000Z"
-        },
-        {
-          "titulo": "Terra e Vivo Ads ampliam ações em esporte, música e Carnaval",
-          "fonte": "Meio & Mensagem",
-          "url": "https://www.meioemensagem.com.br/midia/terra-e-vivo-ads-ampliam-acoes-em-esporte-musica-e-carnaval",
-          "ts": 1794597390000,
-          "data": "2026-11-13T19:16:30.000Z"
-        },
         {
           "titulo": "Como as marcas estão transformando conteúdo em estratégia de criativos com escala, mídia e comissionamento - E-Commerce Brasil",
           "fonte": "E-Commerce Brasil",
@@ -599,6 +552,13 @@
           "data": "2026-11-11T09:00:00.000Z"
         },
         {
+          "titulo": "Plot to it inicia operação com foco em mídia proprietária e design da atenção no Brasil - Brasil Inovador",
+          "fonte": "Brasil Inovador",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNktTanltMDlVWG5vYW5lVG51eFRHMTVDRkRIR09kNXdHdmxrNnVuRkZ2T3ZwSDRqaHJ4T0NIMU95Z2xEN3ZnQnFaYXRnR2hzQ2ctbUZINFY4NE5BUVhMMTlMZk1YNGpubjZwRWl6bUhsN0tYTjJHQUI2NjBRcnU5TnROc2dPN3huOVljTzM5OG9TdlFDeW5XVDMzcE9fNzEwaWo3QzBHWmNBZ0VzSWZhdE96U0NJRTU1SHc?oc=5",
+          "ts": 1794332711000,
+          "data": "2026-11-10T17:45:11.000Z"
+        },
+        {
           "titulo": "RD Station oferece cursos online gratuitos de marketing digital e vendas - Confederação Nacional de Dirigentes Lojistas",
           "fonte": "Confederação Nacional de Dirigentes Lojistas",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbG9SSGJQcTkzMFR1eEJqbUkzRXAtQU9qQnhQT1YwT2xjQ2o5M08xUnY0aTFVT3BBbHpiSUlhdGxXM1AySndDSllSclRwM1hEeVVrNFItRElIOVlnZ0ZwcFJCaVZKWmd2R3paZHBIZHFwX29SSzBTUFZrbGJFc1VsbUdVWVRqWXRwMVdQamZfT2FISDc5cDZIX25zUnB0dGI2OWpBZw?oc=5",
@@ -611,13 +571,6 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3I0QTJmZlRhUkNIZTBDeGZFVGFFN05oT1VBMDNUVEh0ejN3OHdqbkFFZTRyZXE5V0hMNlF4YXBRSmpWOGRvQThpM0oxTExlLWtrVGstaHhFZjRDU25ncnpPc042dk5wUktXR3ZTdXR2MG82MFp2ZTlpWGh3NUxmZTZGWEVFdVlwNEZkR1c3anFZZ1FqM25VSVNFQ2hBYjVxS1BaNThiMFl5QUJjbGtMaUFoVVlnT2NtNWNlTU9FYw?oc=5",
           "ts": 1794182400000,
           "data": "2026-11-09T00:00:00.000Z"
-        },
-        {
-          "titulo": "Confira os 10 diretores de agência de publicidade finalistas do Prêmio Melhores do Nosso Meio 2026 - Portal Nosso Meio",
-          "fonte": "Portal Nosso Meio",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyTk1BU0V6czkydzBVMWVFaHdFQndwMjl2Y2tMb0l3ZU5nVWxqQlg5ZUtRTzNnVjY4enZDNHlBU09DTHhSdnpyOTBib3lPMkFkRDBqblZPRHVzU2d5ajVSTUptdDk2UG5DeXE3VEhZYVRwdw?oc=5",
-          "ts": 1794142800000,
-          "data": "2026-11-08T13:00:00.000Z"
         }
       ]
     }
